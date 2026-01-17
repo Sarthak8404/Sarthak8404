@@ -1,4 +1,6 @@
-<h1 align="center">Hello There!! Sarthak here..:)</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Hello+There!+I'm+Sarthak;Full-Stack+Developer;AI+Enthusiast;Immediate+Joiner" alt="Typing SVG" />
+</h1>
 
 ###
 
@@ -86,10 +88,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/snake.svg" alt="Snake animation" />
 
 ###
