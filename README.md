@@ -86,8 +86,5 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/snake.svg" alt="Snake animation" />
 
 ###
