@@ -2,13 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Hello+There!+I'm+Sarthak;Full-Stack+Developer;AI+Enthusiast;Immediate+Joiner" alt="Typing SVG" />
 </h1>
 
-###
-
 <div align="center">
   <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wjS6uzRF7lCVabZWraCM7w.gif"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -90,4 +87,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph.svg">
 </picture>
-###
