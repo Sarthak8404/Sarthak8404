@@ -85,6 +85,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-![github contribution grid snake animation](https://github.com/[Sarthak8404]/[Sarthak8404]/blob/output/github-contribution-grid-snake.svg)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/[YOUR-USERNAME]?theme=dark&font=baloo_2&ext=activity)
 ###
