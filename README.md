@@ -85,5 +85,9 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-![LeetCode Stats](https://leetcard.jacoblin.cool/[Sarthak077]?theme=dark&font=baloo_2&ext=activity)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sarthak8404/Sarthak8404/output/pacman-contribution-graph.svg">
+</picture>
 ###
